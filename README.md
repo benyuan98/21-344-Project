@@ -1,6 +1,6 @@
 # Image Compression Using SVD and PCA
 
-This is our final project for 21-344 Numerical Linear Algebra (Spring 2019) at Carnegie Mellon University. In this project, we applied Singular Value Decomposition (SVD) to image compression. We also explored how Principal Component Analysis (PCA) can be used to determine the parameter used in SVD. We find that using SVD and PCA together could compress an image effectively. For details, please see ```21-344paper.pdf``` and ```21-344presentation.pdf``` in this repository.
+This is our final project for 21-344 Numerical Linear Algebra (Spring 2019) at Carnegie Mellon University. In this project, we applied Singular Value Decomposition (SVD) to image compression. We also explored how Principal Component Analysis (PCA) can be used to determine the parameter used in SVD. We found that using SVD and PCA together could compress an image effectively. For details, please see ```21-344paper.pdf``` and ```21-344presentation.pdf``` in this repository.
 
 ## How to Run These Code?
 

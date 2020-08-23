@@ -20,7 +20,7 @@ python imageComrpessionPCA.py photo.png 0.99
 
 In Terminal a number ```k``` is printed.
 
-**3.** Type the following command in Terminal to compress the image:
+**3.** Run the following command in Terminal to compress the image:
 ```
 python imageComrpessionSVD.py photo.png k
 ```
